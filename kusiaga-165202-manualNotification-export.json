@@ -1,0 +1,6 @@
+{
+  "notify" : [ {
+    "btnTitle" : "Feedback",
+    "link" : "https://www.google.com/"
+  } ]
+}
